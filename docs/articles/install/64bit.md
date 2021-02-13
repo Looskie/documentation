@@ -29,8 +29,7 @@ There are two ISOs to choose from, **EFI** and **Legacy**.
 
 ## License
 
-<img src="././././img/dahliaOS%20logo%20with%20text%20(drop%20shadow).png" alt.../>
-
+<a href="https://vercel.com/?utm_source=docsifyjsdocs" target="_blank"><img src="_media/vercel_logo.svg" width="100px"></a>
 
 Copyright © The dahliaOS authors, contact@dahliaos.io
 
