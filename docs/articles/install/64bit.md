@@ -30,7 +30,7 @@ There are two ISOs to choose from, **EFI** and **Legacy**.
 ## License
 
 <div align=left>
-<img width="45" src="./img/dahliaOS%20%logo%20%with%20%text%20%(drop%20%shadow).png"/>
+<img width="45" src="./././img/dahliaOS%20%logo%20%with%20%text%20%(drop%20%shadow).png"/>
 </div>
 
 Copyright © The dahliaOS authors, contact@dahliaos.io
