@@ -189,3 +189,55 @@ button {
     font-size: 2rem;
   }
 }
+
+
+.sidebar-toggle {
+  background-color: #212121;
+}
+
+body.close .sidebar-toggle {
+  background-color: #212121;
+}
+
+body {
+  background-color: #212121;
+}
+
+.sidebar {
+  background-color: #212121;
+  color: #c8c8c8;
+}
+
+.github-corner svg {
+  color: #212121;
+  fill: var(--theme-color, #ea6f5a);
+  height: 80px;
+  width: 80px;
+}
+
+.markdown-section p.tip:before {
+  background-color: #ff2d00;
+  border-radius: 100%;
+  color: #212121;
+  content: '!';
+  font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  left: -12px;
+  line-height: 20px;
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+  top: 14px;
+}
+
+
+section.cover.has-mask .mask {
+  background-color: #212121;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 100%;
+}
