@@ -42,9 +42,9 @@ They are only made for developers or people who know what they're doing!
 
 ## License
 
-<p align="left">
-  <img width="45%" src="https://github.com/dahliaos/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
-</p>
+<div align=left>
+<img width="150" src="../img/logo/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"/>
+</div>
 
 Copyright © The dahliaOS authors, contact@dahliaos.io
 
