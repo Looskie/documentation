@@ -12,10 +12,13 @@ yay -S flutter matchbox-window-manager unzip
 ### Debian/Ubuntu
 
 - install git and matchbox-window-manager unzip
+
 ```
 sudo apt install git matchbox-window-manager unzip
 ```
+
 - Install flutter [`Snap`](https://snapcraft.io/flutter)
+
 ```
 sudo snap install flutter --classic
 ```
