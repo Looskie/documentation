@@ -9,6 +9,10 @@
   - [32BIT UEFI](articles/install/32bit.md)
   - [QEMU](articles/install/QEMU.md)
 
+- hardware
+
+  - [Supported Devices](articles/hardware/supported-devices.md)
+
 - os
 
   - [Linux Based](articles/os/linux-based.md)
