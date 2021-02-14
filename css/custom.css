@@ -192,25 +192,25 @@ button {
 
 
 .sidebar-toggle {
-  background-color: #212121;
+  background-color: #1A1A1A;
 }
 
 body.close .sidebar-toggle {
-  background-color: #212121;
+  background-color: #1A1A1A;
 }
 
 body {
-  background-color: #212121;
+  background-color: #1A1A1A;
 }
 
 .sidebar {
-  background-color: #212121;
+  background-color: #1A1A1A;
   color: #c8c8c8;
 }
 
 .github-corner svg {
-  color: #212121;
-  fill: var(--theme-color, #ea6f5a);
+  color: #1A1A1A;
+  fill: var(--theme-color, #ff5722);
   height: 80px;
   width: 80px;
 }
@@ -218,7 +218,7 @@ body {
 .markdown-section p.tip:before {
   background-color: #ff2d00;
   border-radius: 100%;
-  color: #212121;
+  color: #1A1A1A;
   content: '!';
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 14px;
