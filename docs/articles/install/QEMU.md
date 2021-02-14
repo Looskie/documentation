@@ -44,7 +44,7 @@ qemu-system-x86_64 -cdrom Downloads/DahliaOS.iso -m 1024 -enable-kvm
 ## License
 
 <div align=left>
-<img width="150" src="../img/logo/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"/>
+<img width="150" src="../img/footer/logo.png"/>
 </div>
 
 Copyright © The dahliaOS authors, contact@dahliaos.io
