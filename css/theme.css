@@ -787,8 +787,8 @@ body {
   -moz-osx-font-smoothing: initial;
   -webkit-font-smoothing: initial;
   background-color: #282828;
-  border-radius: 2px;
-  color: #b2d4e0;
+  border-radius: 10px;
+  color: #c8c8c8;
   display: block;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   font-size: 0.8rem;
