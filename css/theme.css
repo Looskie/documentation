@@ -337,7 +337,7 @@ body.sticky .sidebar-toggle {
   width: 100%;
 }
 .markdown-section th {
-  border: 1px solid #ddd;
+  border: 0px solid #ddd;
   font-weight: bold;
   padding: 6px 13px;
 }
@@ -346,10 +346,10 @@ body.sticky .sidebar-toggle {
   padding: 6px 13px;
 }
 .markdown-section tr {
-  border-top: 1px solid #ccc;
+  border-top: 0px solid #ccc;
 }
 .markdown-section tr:nth-child(2n) {
-  background-color: #282828;
+  background-color: ##171a1d;
 }
 .markdown-section p.tip {
   background-color: #f8f8f8;
