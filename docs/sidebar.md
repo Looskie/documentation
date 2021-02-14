@@ -2,14 +2,18 @@
 
   - [Overview](/)
 
-- Install
+- install
 
   - [64BIT UEFI](articles/install/64bit.md)
   - [64BIT BIOS](articles/install/64bit-Legacy.md)
   - [32BIT UEFI](articles/install/32bit.md)
   - [QEMU](articles/install/QEMU.md)
 
-- Pangolin
+- os
+
+  - [Linux Based](articles/os/linux-based.md)
+
+- pangolin
 
   - [Pangolin Linux](articles/pangolin/Pangolin-Linux.md)
   - [Pangolin Desktop](articles/pangolin/Pangolin-Desktop.md)
