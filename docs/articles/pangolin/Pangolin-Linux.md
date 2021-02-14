@@ -49,13 +49,3 @@ git clone https://github.com/HexaOneOfficial/pangolin-linux.git
 cd pangolin-linux && chmod +x install.sh && sudo ./install.sh
 ```
 - now restart and login with pangolin
-
-## License
-
-<div align=left>
-<img width="150" src="../img/footer/logo.png"/>
-</div>
-
-Copyright © The dahliaOS authors, contact@dahliaos.io
-
-This project is licensed under the [Apache 2.0 license](../LICENSE)
