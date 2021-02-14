@@ -12,8 +12,3 @@
 - Pangolin
 
   - [Pangolin Linux](/articles/pangolin/Pangolin-Linux.md)
-
-- Contributing
-
-  - [/](/)
- 
