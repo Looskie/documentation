@@ -29,7 +29,7 @@ div#app:empty::before {
   vertical-align: middle;
 }
 .progress {
-  background-color: var(--theme-color, #ea6f5a);
+  background-color: var(--theme-color, #ff5722);
   height: 2px;
   left: 0px;
   position: fixed;
@@ -40,10 +40,10 @@ div#app:empty::before {
   z-index: 999999;
 }
 .search a:hover {
-  color: var(--theme-color, #ea6f5a);
+  color: var(--theme-color, #ff5722);
 }
 .search .search-keyword {
-  color: var(--theme-color, #ea6f5a);
+  color: var(--theme-color, #ff5722);
   font-style: normal;
   font-weight: bold;
 }
@@ -363,7 +363,7 @@ body.sticky .sidebar-toggle {
 .markdown-section p.tip:before {
   background-color: #f66;
   border-radius: 100%;
-  color: #212121;
+  color: #1A1A1A;
   content: '!';
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 14px;
