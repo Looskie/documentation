@@ -685,11 +685,11 @@ body {
 }
 .markdown-section code {
   background-color: #282828;
-  border-radius: 2px;
-  color: #111415;
+  border-radius: 9px;
+  color: #c8c8c8;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   margin: 0 2px;
-  padding: 3px 5px;
+  padding: 3px 20px;
   white-space: pre-wrap;
 }
 .markdown-section > :not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) code {
@@ -796,7 +796,7 @@ body {
   margin: 0 2px;
   max-width: inherit;
   overflow: inherit;
-  padding: 2.2em 40px;
+  padding: 2.2em 20px;
   white-space: inherit;
 }
 .markdown-section code::after,
