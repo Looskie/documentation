@@ -44,13 +44,3 @@ sudo apt-get install qemu-kvm qemu virt-manager virt-viewer libvirt-bin
 ```
 qemu-system-x86_64 -cdrom Downloads/DahliaOS.iso -m 1024 -enable-kvm
 ```
-
-## License
-
-<div align=left>
-<img width="150" src="../img/footer/logo.png"/>
-</div>
-
-Copyright © The dahliaOS authors, contact@dahliaos.io
-
-This project is licensed under the [Apache 2.0 license](../LICENSE)
