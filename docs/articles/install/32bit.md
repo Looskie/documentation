@@ -43,7 +43,7 @@ They are only made for developers or people who know what they're doing!
 ## License
 
 <div align=left>
-<img width="150" src="../img/logo/dahliaOS%20logo%20with%20text%20(drop%20shadow).png"/>
+<img width="150" src="../img/footer/logo.png"/>
 </div>
 
 Copyright © The dahliaOS authors, contact@dahliaos.io
