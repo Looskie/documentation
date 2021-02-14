@@ -26,13 +26,3 @@ There are two ISOs to choose from, **EFI** and **Legacy**.
 **2 GB of RAM** and **a 64 bit** quad core processor with **Intel HD graphics**
 
 **Note: Nvidia graphics won't work well, use onboard graphics for the best result.**
-
-## License
-
-<div align=left>
-<img width="150" src="../img/footer/logo.png"/>
-</div>
-
-Copyright © The dahliaOS authors, contact@dahliaos.io
-
-This project is licensed under the [Apache 2.0 license](../LICENSE)
