@@ -23,6 +23,7 @@ sudo snap install flutter --classic
 ### Fedora
 
 - Install flutter [`Snap`](https://snapcraft.io/flutter)
+
 ```
 sudo dnf install snapd
 ```
