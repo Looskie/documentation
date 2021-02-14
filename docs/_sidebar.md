@@ -12,11 +12,7 @@
 - Pangolin
 
   - [Pangolin Linux](/articles/pangolin/Pangolin-Linux.md)
-    - [-  Requirements](/articles/pangolin/Pangolin-Linux.md#requirements)       
-      - [-  Arch](/articles/pangolin/Pangolin-Linux.md#arch)       
-      - [-  Debian/Ubuntu](/articles/pangolin/Pangolin-Linux.md#debianubuntu)       
-      - [-  Fedora](/articles/pangolin/Pangolin-Linux.md#fedora)     
-    - [-  Installation](/articles/pangolin/Pangolin-Linux.md#installation)
+
 - Contributing
 
   - [/](/)
