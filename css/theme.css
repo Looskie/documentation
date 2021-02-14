@@ -685,7 +685,7 @@ body {
 }
 .markdown-section code {
   background-color: #282828;
-  border-radius: 9px;
+  border-radius: 4px;
   color: #c8c8c8;
   font-family: 'Roboto Mono', Monaco, courier, monospace;
   margin: 0 2px;
