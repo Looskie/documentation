@@ -18,16 +18,19 @@
   <script>
     window.$docsify = {
       name: 'DahliaOS Documentation',
-      loadSidebar: '_sidebar.md',
       repo: '',
       plugins: [
         EditOnGithubPlugin.create(`https://github.com/HexaOneOfficial/Docs-test/tree/main/docs/`)
+      window.$docsify = {
+      loadSidebar: true,
+      subMaxLevel: 2
       ]
     }
   </script>
 
   <!-- Docsify v4.12.0 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4.12.0"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 
   <!-- Analytics -->
   <script type="text/javascript">
@@ -44,15 +47,6 @@
         y.parentNode.insertBefore(t, y);
       })(window, document, "clarity", "script", "4q1wajdktz");
   </script>
-
-  <script>
-  window.$docsify = {
-    loadSidebar: true,
-    subMaxLevel: 2
-  }
-</script>
-
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   
 </body>
 
