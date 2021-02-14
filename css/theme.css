@@ -819,7 +819,7 @@ pre::after {
   line-height: 15px;
   padding: 5px 10px 0;
   position: absolute;
-  right: 0;
+  right: 10;
   text-align: right;
   top: 0;
 }
