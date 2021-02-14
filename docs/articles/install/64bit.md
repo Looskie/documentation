@@ -1,4 +1,4 @@
-# dahliaOS on 64-efi
+# dahliaOS on 64-UEFI
 
 # Installation 
 
