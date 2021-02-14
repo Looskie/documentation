@@ -1,13 +1,5 @@
 # dahliaOS on QEMU
 
-## Table of Contents
-- [Linux](#linux)
-  * [Arch](#arch)
-  * [Fedora](#fedora-32--33)
-  * [Gentoo](#gentoo)
-  * [Ubuntu](#ubuntu-2004--2010)
-- [Run dahlia](#run-dahlia)
-
 ## Linux
 
 ### Arch
