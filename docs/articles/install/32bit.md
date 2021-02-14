@@ -1,4 +1,4 @@
-# dahliaOS on 32-efi
+# dahliaOS on 32-UEFI
 
 # Installation 
 
