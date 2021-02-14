@@ -80,13 +80,3 @@ Once finished, copy the dahliaOS overlays into the buildroot/output/target direc
 Open up a terminal, and type `flutter build linux --release` to generate a release build. 
 
 Copy the output bundle files (located under build/release/) to `buildroot/output/target/dahlia/pangolin`, and compile the image file again to include it. 
-
-## License
-
-<div align=left>
-<img width="150" src="../img/footer/logo.png"/>
-</div>
-
-Copyright © The dahliaOS authors, contact@dahliaos.io
-
-This project is licensed under the [Apache 2.0 license](../LICENSE)
