@@ -1,16 +1,25 @@
-# [files-community.github.io](https://files-community.github.io/)
+<p align="center">
+  <img width="80%" src="https://github.com/dahliaos/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
+<p>
+<div align="center">
+  <a href="https://dahliaos.io">Website</a> ●
+  <a href="https://discord.gg/7qVbJHR">Discord</a> ●
+  <a href="https://github.com/dahliaos/releases/releases">Releases</a> ●
+  <a href="https://opencollective.com/dahliaos">Donate</a> ●
+  <a href="https://github.com/dahliaos/pangolin-desktop">Pangolin</a>
+</div>
 
-This repository contains the website of [Files](https://www.microsoft.com/store/apps/9NGHP3DX8HDX), a modern file explorer that pushes the boundaries of the platform.
-You can find the source code of [here](https://github.com/files-community/files-uwp).
-To improve existing documentation or add new documentation, edit the corresponding file in ./docs or add a new file in the `docs` folder.
-The source code of the start page can be found at the root (index.html).
+# Documentation
+V 7.3-dev ![License](https://img.shields.io/github/license/dahliaos/documentation?color=bright-green) 
 
-Have ideas or found a mistake? Feel free to file an [issue](https://github.com/files-community/files-community.github.io/issues) or create a [PR](https://github.com/files-community/files-community.github.io/pulls)!
+- **Documentation** for the dahliaOS project
 
+## License
 
-## About Files
-Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect. Whether you want to simplify your experience with your files or try something new, Files is a one-stop solution for exploring your files on the fly.
+<p align="left">
+  <img width="45%" src="https://github.com/dahliaos/brand/blob/master/Logo%20SVGs/dahliaOS%20logo%20with%20text%20(drop%20shadow).svg"
+</p>
 
-## Where to get Files 
-- <a href="https://www.microsoft.com/store/apps/9NGHP3DX8HDX">Microsoft Store</a>
-- <a href="https://github.com/files-community/files-uwp/releases">GitHub</a>
+Copyright © The dahliaOS authors, contact@dahliaos.io
+
+This project is licensed under the [Apache 2.0 license](../LICENSE)
