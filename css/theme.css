@@ -25,6 +25,9 @@ body:not(.ready) .app-nav,
 body:not(.ready) > nav {
   display: none;
 }
+nav p {
+  text-align: center;
+}
 div#app {
   font-size: 30px;
   font-weight: lighter;
@@ -489,6 +492,13 @@ body.close .content {
   .sidebar-toggle {
     width: auto;
     border-radius: 50%;
+  }
+  body.close .sidebar-toggle {
+    border-radius: unset;
+    -webkit-border-radius: usnet;
+    -moz-border-radius: usnet;
+    -ms-border-radius: usnet;
+    -o-border-radius: usnet;
   }
   body.close .sidebar {
     transform: translateX(320px);
