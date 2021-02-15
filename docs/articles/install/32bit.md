@@ -18,7 +18,7 @@ They are only made for developers or people who know what they're doing!
 
 ### Linux-builds-grub
 
-1. Download the latest ISO [here](https://github.com/HexaOneOfficial/dahliaos/releases/download/201215/DahliaOS201215.iso).
+1. Download the latest ISO [here](https://github.com/dahliaos/releases/releases/latest).
 
 2. Download and install Etcher: [Download Etcher](https://www.balena.io/etcher/).
 
