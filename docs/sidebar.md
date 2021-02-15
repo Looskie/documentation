@@ -29,4 +29,4 @@
 
 - Contribute
 
-  - [Buildroot](articles/contribute/CONTRIBUTING.md)
+  - [Contributing](articles/contribute/CONTRIBUTING.md)
