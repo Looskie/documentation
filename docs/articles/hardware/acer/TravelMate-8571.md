@@ -9,4 +9,4 @@ Note: This is not an officially supported device for the zircon version, only fo
 - The webcam may not be optimized out of the box.
 
 ## Install
-- You can follow the install instructions [here](articles/install/64bit.md). 
+- You can follow the install instructions [here](articles/install/64bit-Legacy.md). 
