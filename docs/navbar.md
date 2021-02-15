@@ -19,8 +19,6 @@
 </head>
 <body>
 
-<h2>Text Buttons</h2>
-
 <a class="btn home" href="https://dahliaos.io">dahliaOS Homepage</a>
 </body>
 </html>
