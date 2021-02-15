@@ -13,7 +13,6 @@
 <body>
   <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
-  <script src="//cdn.jsdelivr.net/gh/HexaOneOfficial/docsify-copy-code@tree/master"></script>
   
   <div id="app"></div>
   <script>
@@ -25,11 +24,6 @@
       maxLevel: 4,
       subMaxLevel: 3,
       repo: '',
-      // docsify-copy-code (defaults)
-      copyCode: {
-      buttonText : 'Copy to clipboard',
-      errorText  : 'Error',
-      successText: 'Copied'
       plugins: [
         EditOnGithubPlugin.create(`https://github.com/HexaOneOfficial/documentation/tree/main/docs/`)
       ]
