@@ -1,4 +1,4 @@
-# Documenation-testing
+# Documenation
 
 Note this page isn't final yet!
 
