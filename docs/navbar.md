@@ -22,6 +22,7 @@
   padding: 13.5px 16px;
   border-radius: 10px;  
   height: 44px;
+  gap: 1rem;
   font-size: 16px;
   cursor: pointer;  
 }
