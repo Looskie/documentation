@@ -19,13 +19,21 @@
   background-color: #282828;
   border: none;
   color: white;
-  padding: 12px 16px;
+  padding: 13.5px 16px;
   border-radius: 10px;  
-  height: 41.5px;
+  height: 44px;
   font-size: 16px;
   cursor: pointer;  
-}
-
+}  
+.blanck{
+  background-color: #111415;
+  border: none;
+  color: #111415;
+  padding: 13.5px 16px;
+  border-radius: 10px;  
+  height: 44px;
+  font-size: 16px;
+  cursor: pointer;  
 }
 </style>
 </head>
@@ -33,5 +41,6 @@
 
 <a class="home" style="text-decoration:none" href="https://dahliaos.io">dahliaOS Homepage</a>
 <a class="fa fa-heart , donate" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
+<a class="blanck" style="text-decoration:none" >n</a>
 </body>
 </html>
