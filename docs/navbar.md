@@ -22,27 +22,15 @@
   padding: 13.5px 16px;
   border-radius: 10px;  
   height: 44px;
-  gap: 1rem;
   font-size: 16px;
   cursor: pointer;  
-}
-.blanck{
-  background-color: #111415;
-  border: none;
-  padding: 13.5px 16px;
-  border-radius: 10px;  
-  height: 44px;
-  width: 10px;
-  font-size: 16px;
-  cursor: auto;  
 }
 
 </style>
 </head>
 <body>
 
-<a class="home" style="text-decoration:none" href="https://dahliaos.io">dahliaOS Homepage</a>
-<a class="blanck" style="text-decoration:none" ></a>
-<a class="fa fa-heart , donate" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
+<a class="home" style="text-decoration:none" style="margin:5px;" href="https://dahliaos.io">dahliaOS Homepage</a>
+<a class="fa fa-heart , donate" style="text-decoration:none" style="margin:5px;" href="https://opencollective.com/dahliaos" > Donate</a>
 </body>
 </html>
