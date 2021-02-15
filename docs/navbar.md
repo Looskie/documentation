@@ -4,7 +4,7 @@
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-.home {
+.h1 {
   background-color: #282828;
   border: none;
   color: white;
@@ -14,7 +14,7 @@
   cursor: pointer;
 }
 
-.donate {
+.h2 {
   background-color: #282828;
   border: none;
   color: white;
@@ -29,7 +29,7 @@
 </head>
 <body>
 
-<a class="home" style="text-decoration:none" href="https://dahliaos.io">dahliaOS Homepage</a>
-<a class="fa fa-heart , donate" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
+<a class="h1" style="text-decoration:none" href="https://dahliaos.io">dahliaOS Homepage</a>
+<a class="fa fa-heart , h2" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
 </body>
 </html>
