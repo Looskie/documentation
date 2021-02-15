@@ -14,8 +14,8 @@
   height: 41.5px;
   font-size: 16px;
   cursor: pointer;
-  
-.donate
+}  
+.donate{
   background-color: #282828;
   border: none;
   color: white;
