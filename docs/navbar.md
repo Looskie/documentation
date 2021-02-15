@@ -11,6 +11,7 @@
   color: white;
   padding: 12px 16px;
   border-radius: 10px;  
+  height: 17px;
   font-size: 16px;
   cursor: pointer;
 }
