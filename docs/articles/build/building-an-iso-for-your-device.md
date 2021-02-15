@@ -1,4 +1,4 @@
-# Building an ISO for your device `WIP`
+# Building an ISO for your device
 
 # Building Kernel
 
