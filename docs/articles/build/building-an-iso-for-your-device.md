@@ -29,7 +29,8 @@ sudo dnf install ncurses-devel bison flex elfutils-libelf-devel openssl-devel wg
 - Now we need to download a kernel. For dahliaOS we can only use the kernel thats installed with that build. So for 201215 that would 5.10.1.
 
 ```bash
-mkdir ~/kernel && cd ~/kernel && wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.1.tar.xz
+mkdir ~/kernel 
+cd ~/kernel && wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.1.tar.xz
 ```
 
 - This will make a directory and download linux 5.10.1
