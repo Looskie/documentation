@@ -195,6 +195,14 @@ main {
 main.hidden {
   display: none;
 }
+a {
+  text-decoration: none !important;
+  color: var(--secondary-theme-color);
+  opacity: 0.8;
+}
+a:hover {
+  opacity: 1;
+}
 .anchor {
   display: inline-block;
   text-decoration: none;
@@ -203,8 +211,8 @@ main.hidden {
 .anchor span {
   color: #c8c8c8;
 }
-.anchor:hover {
-  text-decoration: underline;
+.anchor:hover span {
+  color: var(--secondary-theme-color);
 }
 .sidebar {
   border-right: 1px solid rgba(0, 0, 0, 0.07);
