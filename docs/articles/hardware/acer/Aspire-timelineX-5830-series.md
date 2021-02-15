@@ -8,4 +8,4 @@ Note: This is not an officially supported device for the zircon version, only fo
 - The GPU Nvidia may not work correctly.
 
 ## Install
-- You can follow the install instructions [here](Aspire-timelineX-5830-series.md). 
+- You can follow the install instructions [here](articles/install/64bit-Legacy.md). 
