@@ -31,8 +31,9 @@
   padding: 13.5px 16px;
   border-radius: 10px;  
   height: 44px;
+  width: 10px;
   font-size: 16px;
-  cursor: pointer;  
+  cursor: auto;  
 }
 
 </style>
