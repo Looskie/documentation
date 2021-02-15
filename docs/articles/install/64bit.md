@@ -8,7 +8,7 @@
 
 There are two ISOs to choose from, **EFI** and **Legacy**.
 
-- Most devices can only run the **EFI ISOs**, for older, **legacy devices** you can can check the instructions [here](x86_64-legacy.md).
+- Most devices can only run the **EFI ISOs**, for older, **legacy devices** you can can check the instructions [here](articles/install/64bit-Legacy.md).
 
 1. Go to [releases](https://github.com/dahliaos/releases/releases/download/201215-x86_64/dahliaOS-201215-efi.zip) and download the zip file.
 2. Then download [etcher](https://www.balena.io/etcher/) and flash the .zip file on a USB.
