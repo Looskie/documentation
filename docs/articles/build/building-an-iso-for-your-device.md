@@ -9,11 +9,13 @@
 - First we need to install the tools to build the kernel.
 
 - Debian / Ubuntu
+
 ```bash
 sudo apt install build-essential libncurses-dev bison flex libssl-dev libelf-dev wget dwarves
 ```
 
 - Fedora
+
 ```bash
 sudo dnf group install "Development Tools"
 ```
@@ -21,6 +23,7 @@ sudo dnf group install "Development Tools"
 ```bash
 sudo dnf install ncurses-devel bison flex elfutils-libelf-devel openssl-devel wget
 ```
+
 ### Downloading kernel
 
 - Now we need to download a kernel. For dahliaOS we can only use the kernel thats installed with that build. So for 201215 that would 5.10.1.
@@ -28,6 +31,7 @@ sudo dnf install ncurses-devel bison flex elfutils-libelf-devel openssl-devel wg
 ```bash
 mkdir ~/kernel && cd ~/kernel && wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.10.1.tar.xz
 ```
+
 - This will make a directory and download linux 5.10.1
 
 ### Extracting the kernel
