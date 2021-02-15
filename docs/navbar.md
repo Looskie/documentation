@@ -24,13 +24,23 @@
   height: 44px;
   font-size: 16px;
   cursor: pointer;  
-}  
+}
+.blanck{
+  background-color: #111415;
+  border: none;
+  padding: 13.5px 16px;
+  border-radius: 10px;  
+  height: 44px;
+  font-size: 16px;
+  cursor: pointer;  
+}
 
 </style>
 </head>
 <body>
 
 <a class="home" style="text-decoration:none" href="https://dahliaos.io">dahliaOS Homepage</a>
+<a class="blanck" style="text-decoration:none" ></a>
 <a class="fa fa-heart , donate" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
 </body>
 </html>
