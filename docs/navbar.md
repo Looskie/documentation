@@ -20,6 +20,6 @@
 <body>
 
 <a class="btn home" style="text-decoration:none" href="https://dahliaos.io">dahliaOS Homepage</a>
-<a&nbsp</a> <a class="fa fa-heart , btn" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
+<a class="fa fa-heart , btn" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
 </body>
 </html>
