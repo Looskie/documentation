@@ -11,6 +11,11 @@
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
   box-sizing: border-box;
+  transition: opacity 666ms cubic-bezier(0.17, 0.17, 0.06, 1) !important;
+  -webkit-transition: opacity 666ms cubic-bezier(0.17, 0.17, 0.06, 1) !important;
+  -moz-transition: opacity 666ms cubic-bezier(0.17, 0.17, 0.06, 1) !important;
+  -ms-transition: opacity 666ms cubic-bezier(0.17, 0.17, 0.06, 1) !important;
+  -o-transition: opacity 666ms cubic-bezier(0.17, 0.17, 0.06, 1) !important;
 }
 body:not(.ready) {
   overflow: hidden;
@@ -198,7 +203,7 @@ main.hidden {
 a {
   text-decoration: none !important;
   color: var(--secondary-theme-color);
-  opacity: 0.8;
+  opacity: 0.7;
 }
 a:hover {
   opacity: 1;
