@@ -1,24 +1,25 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .btn {
-  border: 0px;
   background-color: #282828;
-  padding: 15px 15px;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  border-radius: 10px;  
   font-size: 16px;
   cursor: pointer;
-  border-radius: 10px;
-  display: inline-block;
 }
 
-.btn:hover {background: inherit;}
-
-.home {color: #C8C8C8;}
+}
 </style>
 </head>
 <body>
 
-<a class="btn home" href="https://dahliaos.io">dahliaOS Homepage</a>
+<a class="btn home" style="text-decoration:none" href="https://dahliaos.io">dahliaOS Homepage</a>
+&nbsp <a class="fa fa-heart , btn" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
 </body>
 </html>
