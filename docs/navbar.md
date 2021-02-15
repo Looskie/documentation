@@ -30,7 +30,7 @@
 </head>
 <body>
 
-<a class="home" style="text-decoration:none" style="margin:5px;" href="https://dahliaos.io">dahliaOS Homepage</a>
-<a class="fa fa-heart , donate" style="text-decoration:none" style="margin:5px;" href="https://opencollective.com/dahliaos" > Donate</a>
+<a class="home" style="text-decoration:none , margin:5px;" href="https://dahliaos.io">dahliaOS Homepage</a>
+<a class="fa fa-heart , donate" style="text-decoration:none" href="https://opencollective.com/dahliaos" > Donate</a>
 </body>
 </html>
