@@ -36,7 +36,7 @@ sudo apt install qemu-kvm qemu virt-manager virt-viewer libvirt-daemon-system li
 sudo apt-get install qemu-kvm qemu virt-manager virt-viewer libvirt-bin
 ```
 
-## Run dahlia
+## Run dahliaOS
 - download the dahliaOS latest ISO from: https://github.com/dahliaos/releases/releases 
 
 - Then type the following command in the terminal (make sure that you use the right name of the ISO file. DahliaOS.iso is just for this example)
