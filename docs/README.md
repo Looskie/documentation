@@ -1,6 +1,6 @@
 # Documenation
 
-Note this page isn't final yet!
+Note: this page isn't final yet!
 
 
 ## License
