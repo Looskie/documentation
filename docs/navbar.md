@@ -7,7 +7,6 @@
 <style>
 .home {
   background-color: #282828;
-  border: none;
   color: white;
   padding: 12px 16px;
   border-radius: 10px;  
@@ -17,7 +16,6 @@
 }  
 .donate{
   background-color: #282828;
-  border: none;
   color: white;
   padding: 13.5px 16px;
   border-radius: 10px;  
