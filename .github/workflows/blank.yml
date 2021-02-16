@@ -3,7 +3,7 @@ name: Deploy
 
 on:
   schedule:
-    - cron:  '*/1 * * * *'
+    - cron: 0 12 * * 1
   workflow_dispatch:
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: set NOW
         run: | 
-          echo "RELEASE_TAG=$(date +'%y.%W')" >> $GITHUB_ENV
+          echo "RELEASE_TAG=$(date +'%y.%m.%dT')" >> $GITHUB_ENV
         
       - name: Checkout
         uses: actions/checkout@v2
