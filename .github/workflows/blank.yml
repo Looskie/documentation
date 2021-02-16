@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{date +'%y.%W'}}
+          tag_name: v${{(date +'%y.%W')}}
           release_name: ${{ env.RELEASE_TAG }}
           body_path: .github/release.md
           draft: false
