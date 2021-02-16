@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-20.04
 
     steps:
+      - name: set NOW
+        run: | 
+          echo "RELEASE_TAG=$(date +'%y.%W')" >> $GITHUB_ENV
+        
       - name: Checkout
         uses: actions/checkout@v2
 
@@ -20,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: v${{(date +'%y.%W')}}
+          tag_name: v${{ env.RELEASE_TAG  }}
           release_name: ${{ env.RELEASE_TAG }}
           body_path: .github/release.md
           draft: false
