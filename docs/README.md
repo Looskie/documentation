@@ -5,7 +5,7 @@
 Note: this page isn't final yet!
 
 <div align=left> 
- <img width="100" src="../img/license/license.png"/> 
+ <img width="700" src="../img/license/license.png"/> 
 </div>
 
 ## License
