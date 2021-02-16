@@ -5,5 +5,5 @@
 Note: this page isn't final yet!
 
 <div align=left> 
- <img width="500" src="../img/license/license.png"/> 
+ <img width="400" src="../img/license/license.png"/> 
 </div>
