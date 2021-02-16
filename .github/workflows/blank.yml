@@ -1,24 +1,7 @@
-name: Create Tag
-
 on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: Klemensas/action-autotag@stable
-      with:
-        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-
-on:
-  push:
-    # Sequence of patterns matched against refs/tags
-    tags:
-      - '2*' # Push events to matching v*, i.e. v1.0, v20.15.10
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/1 * * * *'
 
 name: Create Release
 
